@@ -8,9 +8,9 @@
 
 - Rebase the second branch with the master branch and make changes in the second branch and commit changes.
 
-     git init
+      git init
     
-     touch .gitignore
+      touch .gitignore
 
       git status
 
